@@ -47,3 +47,19 @@ Enter(Main Menu Only) - Select Option
 
 ## Notes
 This was originally made in September/October 2023, with only sprites being added recently for presentability.
+
+## External Art Resources
+
+Background:
+https://deep-fold.itch.io/space-background-generator
+
+Player:
+https://foozlecc.itch.io/void-main-ship
+
+Enemies:
+https://foozlecc.itch.io/void-fleet-pack-1
+
+Healing:
+https://www.spriteland.com/sprites/medical-kit-sprites
+
+These images are all royalty free as stated on their respective websites
