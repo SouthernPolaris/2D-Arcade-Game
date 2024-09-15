@@ -49,12 +49,15 @@ The unit test is successful when there is no output in the terminal. If the file
 
 ## Controls
 The mouse is involved in positioning the player's direction, which always faces the cursor. The mouse buttons play no role in the game
-W Key - Move Up
-A - Move Left
-S - Move Down
-D - Move Right
-Esc - Go to Previous Menu (Or Exit Program if in Main Menu)
-Enter(Main Menu Only) - Select Option
+| Key        | Action                                      |
+|------------|---------------------------------------------|
+| **W**      | Move Up                                    |
+| **A**      | Move Left                                  |
+| **S**      | Move Down                                  |
+| **D**      | Move Right                                 |
+| **Esc**    | Go to Main Menu (or Exit Program if already in Main Menu)          |
+| **Enter**  | Select Option (Main Menu Only)             |
+
 
 ## Notes
 This was originally made in September/October 2023, with only sprites being added recently for presentability.
