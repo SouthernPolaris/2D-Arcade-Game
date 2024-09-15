@@ -1,1 +1,0 @@
-/usr/bin/c++ CMakeFiles/UNIT_TEST.dir/tests/UnitTesting.cpp.o -o UNIT_TEST  /usr/lib/x86_64-linux-gnu/libsfml-graphics.so.2.5.1 /usr/lib/x86_64-linux-gnu/libsfml-window.so.2.5.1 /usr/lib/x86_64-linux-gnu/libsfml-system.so.2.5.1 
