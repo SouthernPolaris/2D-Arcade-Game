@@ -26,12 +26,17 @@ Defeated Screen:
 Dependencies: SFML Graphics Library
 To compile:
 
+```
 mkdir build
 cd build
 cmake ..
 make
+```
 
-To run -> ./game
+To run:
+```
+./game
+```
 
 The program will not run without SFML, which needs to be separately installed.
 
