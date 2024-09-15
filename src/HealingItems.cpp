@@ -18,7 +18,7 @@ HealingItems::HealingItems(int windowWidth, int windowHeight) {
     sf::Sprite tempSprite;
     healthSprite = tempSprite;
 
-    if(!healthTexture.loadFromFile("health.png")) {
+    if(!healthTexture.loadFromFile("assets/health.png")) {
 
     }
 

@@ -42,7 +42,7 @@ Gameplay::Gameplay(int windowWidth, int windowHeight, sf::RenderWindow &window) 
 
 void Gameplay::drawMenu(sf::RenderWindow &window) {
 
-    if(!background_texture.loadFromFile("SpaceBackground.png")) {
+    if(!background_texture.loadFromFile("assets/SpaceBackground.png")) {
 
     }
     sf::Sprite background(background_texture);
@@ -61,7 +61,7 @@ void Gameplay::drawMenu(sf::RenderWindow &window) {
         scoreText.setString("Score: " + score);
 
         // Font loading
-        if(!mainFont.loadFromFile("arial.ttf")) {
+        if(!mainFont.loadFromFile("assets/arial.ttf")) {
                 std::cout << "Font loading error" << std::endl;
         }
 
@@ -125,7 +125,7 @@ void Gameplay::drawMenu(sf::RenderWindow &window) {
     if (playerAlive == false) {
         
         // Load font
-        if(!mainFont.loadFromFile("arial.ttf")) {
+        if(!mainFont.loadFromFile("assets/arial.ttf")) {
             std::cout << "Font loading error" << std::endl;
         }
 

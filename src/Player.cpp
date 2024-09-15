@@ -22,11 +22,11 @@ Player::Player(std::string name, int vitality, int strength, int luck) :
     // sprite.setOrigin((sprite.getLocalBounds().width) / 2, (sprite.getLocalBounds().height) / 2);
 
     // sf::Texture playerTexture;
-    if(!playerTexture.loadFromFile("mainShip.png")) {
+    if(!playerTexture.loadFromFile("assets/mainShip.png")) {
 
     }
 
-    if(!projectileTexture.loadFromFile("ShipProjectile.png")) {
+    if(!projectileTexture.loadFromFile("assets/ShipProjectile.png")) {
 
     }
 

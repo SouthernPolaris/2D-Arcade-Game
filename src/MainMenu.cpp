@@ -13,7 +13,7 @@ MainMenu::MainMenu(int windowWidth, int windowHeight, sf::RenderWindow &window) 
     optionNum = 0;
 
     // Loads font
-    if(!mainFont.loadFromFile("arial.ttf")) {
+    if(!mainFont.loadFromFile("assets/arial.ttf")) {
         std::cout << "Font loading error" << std::endl;
     }
 
@@ -56,7 +56,7 @@ MainMenu::MainMenu(int windowWidth, int windowHeight, sf::RenderWindow &window) 
 void MainMenu::drawMenu(sf::RenderWindow &window) {
     // Draws the main menu
     
-    if(!background_texture.loadFromFile("SpaceBackground.png")) {
+    if(!background_texture.loadFromFile("assets/SpaceBackground.png")) {
 
     }
     sf::Sprite background(background_texture);

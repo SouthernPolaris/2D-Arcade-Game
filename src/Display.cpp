@@ -14,7 +14,7 @@ Display::Display(int windowWidth, int windowHeight, sf::RenderWindow &window) {
     selectedCount = 0;
 
     // Read a file for high score
-    std::ifstream highScoreFile ("High Score.txt");
+    std::ifstream highScoreFile ("../High Score.txt");
     std::string scoreString;
 
     if(highScoreFile.is_open()) {

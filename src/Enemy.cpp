@@ -25,11 +25,11 @@ Enemy::Enemy(std::string name, int vitality, int strength, int luck, bool isBoss
     sf::Sprite enemySprite;
     sprite = enemySprite;
 
-    if(!regular.loadFromFile("regularEnemy.png")) {
+    if(!regular.loadFromFile("assets/regularEnemy.png")) {
 
     }
 
-    if(!boss.loadFromFile("bossEnemy.png")) {
+    if(!boss.loadFromFile("assets/bossEnemy.png")) {
 
     }
 
