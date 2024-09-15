@@ -24,7 +24,13 @@ Defeated Screen:
 
 ## How to Run
 Dependencies: SFML Graphics Library
-To compile -> make main
+To compile:
+
+mkdir build
+cd build
+cmake ..
+make
+
 To run -> ./game
 
 The program will not run without SFML, which needs to be separately installed.
