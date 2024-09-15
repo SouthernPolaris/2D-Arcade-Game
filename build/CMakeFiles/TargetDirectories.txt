@@ -1,3 +1,0 @@
-/home/sea-of-fragments/Documents/projects/gameFinal/2D-Arcade-Game/build/CMakeFiles/game.dir
-/home/sea-of-fragments/Documents/projects/gameFinal/2D-Arcade-Game/build/CMakeFiles/edit_cache.dir
-/home/sea-of-fragments/Documents/projects/gameFinal/2D-Arcade-Game/build/CMakeFiles/rebuild_cache.dir
