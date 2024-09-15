@@ -55,7 +55,7 @@ The mouse is involved in positioning the player's direction, which always faces 
 | **A**      | Move Left                                  |
 | **S**      | Move Down                                  |
 | **D**      | Move Right                                 |
-| **Esc**    | Go to Main Menu (or Exit Program if already in Main Menu)          |
+| **Esc**    | Go to Main Menu (or Exit Program if Already in Main Menu)          |
 | **Enter**  | Select Option (Main Menu Only)             |
 
 
