@@ -24,6 +24,7 @@ Defeated Screen:
 
 ## How to Run
 Dependencies: SFML Graphics Library
+
 To compile:
 
 ```
@@ -40,13 +41,6 @@ To run:
 
 The program will not run without SFML, which needs to be separately installed.
 
-#### Unit Testing
-The unit testing files present are for testing purposes only
-To compile -> make unittest
-To run -> ./UNIT_TEST
-
-The unit test is successful when there is no output in the terminal. If the file outputs something in the terminal, there is an error present
-
 ## Controls
 The mouse is involved in positioning the player's direction, which always faces the cursor. The mouse buttons play no role in the game
 | Key        | Action                                      |
@@ -60,7 +54,7 @@ The mouse is involved in positioning the player's direction, which always faces 
 
 
 ## Notes
-This was originally made in September/October 2023, with only sprites being added recently for presentability.
+This was originally made in September/October 2023, with only sprites being added recently for presentability, along with some refactoring.
 
 ## External Art Resources
 
